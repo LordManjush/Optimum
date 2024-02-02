@@ -1,4 +1,5 @@
 # Optimum Engine
+Optimum will contain a framework for Spartans who like to make stuff with just Code. 
 Optimum is a work in progress 2D and 3D game engine. Focused on speed and high graphics. Made using C++. 
 A vulkan based 2D and 3D game engine. Made to make game dev easy. 
 
